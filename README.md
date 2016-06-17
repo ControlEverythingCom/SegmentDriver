@@ -16,7 +16,7 @@ NCD has been designing and manufacturing computer control products since 1995.  
 
 ### How to use this library
 
-The libary must be imported into your application.  This can be done through the Particle WEB IDE by selecting Libraries, then select the VCNL4010.  Click Include in App button.  Select the App you want to include the library in.  Finally click Add to this app.  For more information see [Particle's documentation] [sparkIncludeLibrary].
+The libary must be imported into your application.  This can be done through the Particle WEB IDE by selecting Libraries, then select the SEGMENTDRIVER.  Click Include in App button.  Select the App you want to include the library in.  Finally click Add to this app.  For more information see [Particle's documentation] [sparkIncludeLibrary].
 
 This Library also has an example application which can be flashed directly to your Photon module by clicking the Use This Example button.  This example application will display your Particle Photon module's RSSI on the 3 character display.  It will also post the module's RSSI as a variable on the Particle cloud.
 The example will post two functions to the particle cloud.  1 allowing the user to post a int value to the display from 0-999.  The second function allows the user to select the internal or external WiFi antenna, after this function is called the module will reboot.
